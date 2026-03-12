@@ -1,1 +1,1 @@
-# portfolio-footer
+# portfolio footer template
